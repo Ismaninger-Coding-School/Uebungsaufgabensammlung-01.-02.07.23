@@ -1,1 +1,4 @@
 run = "jupyter notebook --config jupyter_notebook_config.py"
+
+[nix]
+channel = "stable-22_11"
